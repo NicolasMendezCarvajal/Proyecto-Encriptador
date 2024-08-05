@@ -1,1 +1,0 @@
-Ya tenemos el verificador de mayusculas y el encriptador y deseincriptador, falta pulir cosas en CSS, y verificar el resto de requerimientos
